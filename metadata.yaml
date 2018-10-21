@@ -1,5 +1,5 @@
 _repo: The-Passionate-Pilgrim_1545
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PR'
 - !lcsh 'English poetry -- Early modern, 1500-1700'
+- GITenberg
 title: The Passionate Pilgrim
 url: http://www.gutenberg.org/ebooks/1545
